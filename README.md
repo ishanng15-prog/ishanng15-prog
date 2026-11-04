@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Ishan 👋
+### AWS DevOps Operator
 
-<!--
-**ishanng15-prog/ishanng15-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AWS DevOps Operator with extensive experience in cloud architecture, CI/CD automation, infrastructure as code, and site reliability engineering.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Core Competencies
+- **Cloud Infrastructure:** AWS (EC2, S3, VPC, IAM, ECS, EKS, CloudFront, Route53, CloudWatch)
+- **Infrastructure as Code (IaC):** Terraform, CloudFormation, AWS CDK
+- **CI/CD & Automation:** GitHub Actions, AWS CodePipeline, Jenkins, GitLab CI
+- **Containerization & Orchestration:** Docker, Kubernetes, Helm
+- **Monitoring & Observability:** AWS CloudWatch, Datadog, Prometheus, Grafana
+- **Security & Compliance:** IAM Policy Automation, AWS Security Hub, HashiCorp Vault
